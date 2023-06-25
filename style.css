@@ -93,7 +93,10 @@ nav li a.hm:hover {
 @media screen and (max-width:768px) {
   body {
     overflow-x: hidden;
+<<<<<<< HEAD
     -webkit-text-size-adjust: none;
+=======
+>>>>>>> main
   }
 
   .nav{
