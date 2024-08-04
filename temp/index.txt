@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuneeshEnterprise</title>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css'>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+    <nav class="navbar" id="main-nav">
+        <div class="logo">
+            <h4><a href="#"><i class="fi fi-ss-handshake"></i></a></h4>
+        </div>
+            <ul class="nav">
+                <li><a href="#" class="hm">HOME</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+    </nav>
+
+        <div class="bgImage"></div>
+        <div class="content">
+            <div class="line"></div>
+
+            <h1>WELCOME</h1>
+            <div class="line"></div>
+            <h3 class="tar">The shop is not yet available for online orders, but you can order from one of these sources </h3>
+
+            <div class="catp">
+                <h3 class="">Call us:</h3>
+                <p class="phone">+917736058252</p>
+                <p class="phone">+919847058252</p>
+            </div>
+            <br>
+            <div class="catg">
+                <h3 class="">Email:</h3>
+                <p class="phone">devshenoy1@gmail.com</p>
+            </div>
+
+            <div class="catl">
+                <h3 class="">Location:</h3>
+                <p class="phone">Edakochi, Kerala - 682017</p>
+            </div>
+
+        </div>
+
+</body>
+
+<script src="script.js"></script>
+
+</html>
